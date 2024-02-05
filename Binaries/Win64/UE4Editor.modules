@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"HowlOfIron": "UE4Editor-HowlOfIron.dll",
+		"HowlOfIronEditor": "UE4Editor-HowlOfIronEditor.dll"
+	}
+}
